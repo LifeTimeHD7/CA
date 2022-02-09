@@ -1,0 +1,11 @@
+--[[
+    
+    Made by: LifeTimeHD7
+    
+]]--
+
+local player = game.Players.LocalPlayer
+
+if player then
+   print("Request: Enabled!")
+end
